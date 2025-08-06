@@ -20,7 +20,7 @@ For this project, I worked with a flight booking dataset scraped from a major tr
 - Feature Engineering
 - Consistent Formatting & Branding
   ## Data Cleaning
-  The process began by sourcing Adidas’ sales data from Kaggle. Next came data cleaning addressing the following:
+  The process began by sourcing Adidas’ sales data from Kaggle. Next came data cleaning, addressing the following:
   - Missing values
   - Correcting inconsistent formats
   - Eliminating duplicates
@@ -30,25 +30,24 @@ For this project, I worked with a flight booking dataset scraped from a major tr
   This step was essential to ensure the dataset was accurate, reliable, and ready for meaningful analysis
 ## Chart & Visualization
 The dashboard includes the following visuals capturing the unity with the airline's operations in India
-## 1. Total Flight by Frequency (Bar Chart)
-![Total Flight by Frequency](https://github.com/uplahjoseph/Sales-Strategy-and-Sneakers-Building-the-Adidas-Dashboard/blob/main/Total%20Sales%20by%20Product.png)
-## 2. Monthly Sales Trend (Line Chart)
-![Monthly Sales Trend](https://github.com/uplahjoseph/Sales-Strategy-and-Sneakers-Building-the-Adidas-Dashboard/blob/main/Monthly%20Sales%20Trend.png)
-## 3. Total Sales by Sales Method (Pie Chart)
-![Total Sales by Sales Method](https://github.com/uplahjoseph/Sales-Strategy-and-Sneakers-Building-the-Adidas-Dashboard/blob/main/Total%20Sales%20by%20Sales%20Method.png)
-## 4. Total Sales by Region (Colunm Chart)
-![Total Sales by Region](https://github.com/uplahjoseph/Sales-Strategy-and-Sneakers-Building-the-Adidas-Dashboard/blob/main/Total%20Sales%20by%20Region.png)
-## 5. Total Sales by Retailers(Bar Chart)
-![Total Sales by Retailers](https://github.com/uplahjoseph/Sales-Strategy-and-Sneakers-Building-the-Adidas-Dashboard/blob/main/Sales%20by%20Retailers.png)
-## 6. Average Operating Margin(Doughnut Chart)
-![Average Operating Margin](https://github.com/uplahjoseph/Sales-Strategy-and-Sneakers-Building-the-Adidas-Dashboard/blob/main/Average%20Operating%20Margin.png)
-## 7. Top City by Sales(Colunm Chart)
-![Top City by Sales](https://github.com/uplahjoseph/Sales-Strategy-and-Sneakers-Building-the-Adidas-Dashboard/blob/main/Sales%20by%20Top%20City.png)
+## 1. Total Flight by Frequency (Column Chart)
+![Total Flight by Frequency](https://github.com/uplahjoseph/MAKING-SENSE-OF-THE-SKIES-ANALYZING-INDIA-S-FLIGHT-BOOKING-PATTERNS-WITH-DATA/blob/main/Total%20Flight%20by%20Frequency.png)
+## 2. Total Flight by Time of Flight (Column Chart)
+![Total Flight by Time of Flight](https://github.com/uplahjoseph/MAKING-SENSE-OF-THE-SKIES-ANALYZING-INDIA-S-FLIGHT-BOOKING-PATTERNS-WITH-DATA/blob/main/Total%20Flight%20by%20Time.jpeg)
+## 3. Flight by City to City Traffic (Bar Chart)
+![Flight by City to City Traffic](https://github.com/uplahjoseph/MAKING-SENSE-OF-THE-SKIES-ANALYZING-INDIA-S-FLIGHT-BOOKING-PATTERNS-WITH-DATA/blob/main/City%20by%20City%20Traffic%20.jpeg)
+## 4. Flight by Class Usage Frequency (Pie Chart)
+![Flight by Class Usage Frequency](http://github.com/uplahjoseph/MAKING-SENSE-OF-THE-SKIES-ANALYZING-INDIA-S-FLIGHT-BOOKING-PATTERNS-WITH-DATA/blob/main/Flight%20by%20Class%20%20Usage%20Frequency.jpeg)
+## 5. Average Ticket Price by Route(Line Chart)
+![Average Ticket Price by Route](https://github.com/uplahjoseph/MAKING-SENSE-OF-THE-SKIES-ANALYZING-INDIA-S-FLIGHT-BOOKING-PATTERNS-WITH-DATA/blob/main/Ticket%20by%20Route.jpeg)
+## 6. Flight Class Fare Comparison(Doughnut Chart)
+![Flight Class Fare Comparison](https://github.com/uplahjoseph/MAKING-SENSE-OF-THE-SKIES-ANALYZING-INDIA-S-FLIGHT-BOOKING-PATTERNS-WITH-DATA/blob/main/Flight%20ClassFare%20%20Comparison.jpeg)
+## 7. Average Fare by Booking Window (Bar Chart)
+![Average Fare by Booking Window](https://github.com/uplahjoseph/MAKING-SENSE-OF-THE-SKIES-ANALYZING-INDIA-S-FLIGHT-BOOKING-PATTERNS-WITH-DATA/blob/main/Fare%20by%20Booking%20Window.jpeg)
 ## Dashboard Overview
 - I designed a fully interactive Excel dashboard that brings all charts together into one streamlined, cohesive view. Key highlights of the dashboard include:
 - A clean, well-structured layout with consistent margins and spacing
 - Clear typography and precise alignment to improve readability and visual flow
-- A harmonized color scheme inspired by Adidas’ branding for a polished look
 - Interactive slicers that allow users to filter data across multiple dimensions in real time
 ![Dashbboard](https://github.com/uplahjoseph/Sales-Strategy-and-Sneakers-Building-the-Adidas-Dashboard/blob/main/Screenshot%20(3).png)
 ## Tools Used
