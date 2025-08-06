@@ -37,7 +37,7 @@ The dashboard includes the following visuals capturing the unity with the airlin
 ## 3. Flight by City to City Traffic (Bar Chart)
 ![Flight by City to City Traffic](https://github.com/uplahjoseph/MAKING-SENSE-OF-THE-SKIES-ANALYZING-INDIA-S-FLIGHT-BOOKING-PATTERNS-WITH-DATA/blob/main/City%20by%20City%20Traffic%20.jpeg)
 ## 4. Flight by Class Usage Frequency (Pie Chart)
-![Flight by Class Usage Frequency](http://github.com/uplahjoseph/MAKING-SENSE-OF-THE-SKIES-ANALYZING-INDIA-S-FLIGHT-BOOKING-PATTERNS-WITH-DATA/blob/main/Flight%20by%20Class%20%20Usage%20Frequency.jpeg)
+![Flight by Class Usage Frequency](https://github.com/uplahjoseph/MAKING-SENSE-OF-THE-SKIES-ANALYZING-INDIA-S-FLIGHT-BOOKING-PATTERNS-WITH-DATA/blob/main/Flight%20by%20Class%20%20Usage%20Frequency.jpeg)
 ## 5. Average Ticket Price by Route(Line Chart)
 ![Average Ticket Price by Route](https://github.com/uplahjoseph/MAKING-SENSE-OF-THE-SKIES-ANALYZING-INDIA-S-FLIGHT-BOOKING-PATTERNS-WITH-DATA/blob/main/Ticket%20by%20Route.jpeg)
 ## 6. Flight Class Fare Comparison(Doughnut Chart)
@@ -49,18 +49,30 @@ The dashboard includes the following visuals capturing the unity with the airlin
 - A clean, well-structured layout with consistent margins and spacing
 - Clear typography and precise alignment to improve readability and visual flow
 - Interactive slicers that allow users to filter data across multiple dimensions in real time
-![Dashbboard](https://github.com/uplahjoseph/Sales-Strategy-and-Sneakers-Building-the-Adidas-Dashboard/blob/main/Screenshot%20(3).png)
+![Dashbboard](https://github.com/uplahjoseph/MAKING-SENSE-OF-THE-SKIES-ANALYZING-INDIA-S-FLIGHT-BOOKING-PATTERNS-WITH-DATA/blob/main/Dashboard.png)
 ## Tools Used
-- Microsoft Excel: Utilized extensively for Data Cleaning, Analysis, and Dashboard creation.
-- Adobe Color: Employed for selecting a brand-consistent color theme.
+- Microsoft Excel: Utilised extensively for Data Cleaning, Analysis, and Dashboard creation.
+- Adobe Colour: Employed for selecting a brand-consistent colour theme.
 ## File Included 
-- ### ![Sales, Strategy, and Sneakers: Building the Adidas Dashboard](https://medium.com/@uplahjoseph/sales-strategy-and-sneakers-building-the-adidas-dashboard-66a64a8496ae)
+- ### ![MAKING-SENSE-OF-THE-SKIES-ANALYZING-INDIA-S-FLIGHT-BOOKING-PATTERNS-WITH-DATA](https://medium.com/@uplahjoseph/making-sense-of-the-skies-analyzing-indias-flight-booking-patterns-with-data-c49c479741a5)
 ## Insights 
-### Patterns in the data quickly began to surface—and they told a compelling story.
-- Some product categories and regions consistently outshined the rest, signaling clear areas of strength for Adidas.
-- Monthly sales trends revealed predictable spikes and dips, offering key insights for seasonal planning and targeted campaigns.
-- A closer look at sales methods uncovered which channels drive the most revenue, while also pointing to areas where performance could be sharpened through optimization.
-## What I Learnt 
+### Observations.
+- Vistara accounted for 42.6% of total flights, significantly leading over competitors.
+- Morning flights made up 23.72% of total trips — the most preferred time slot.
+- Delhi recorded the highest flight activity, with 20.44% of total departures.
+- 68.85% of passengers booked Economy, reflecting strong price sensitivity.
+- The Delhi–Mumbai corridor alone accounted for 5.1% of all flights.
+- Business Class fares are on average 78.34% higher than Economy.
+- Booking at least 11 days in advance led to fares up to 79.5% cheaper.
+## Recommendations 
+- Competing airlines should analyse Vistara’s route strategies, pricing, and service offerings to identify gaps and opportunities for market penetration or strategic collaboration.
+- Airlines should increase capacity and frequency during morning hours, especially on high-demand routes, while ensuring minimal delays to capitalise on peak preferences.
+- Airlines and airport authorities should prioritise infrastructure, staffing, and scheduling in Delhi to manage volume efficiently and maintain high service quality.
+- Airlines should enhance the Economy Class experience (e.g., flexible fares, loyalty perks) and optimise fleet configurations to favour Economy seats without compromising profitability.
+- Airlines should consider dynamic pricing, frequent flyer incentives, and schedule optimisation on this high-volume route to boost both load factor and profitability.
+- Introduce “Premium Economy” or hybrid offerings for travellers seeking some business-class benefits at a lower price point, and improve value propositions in Business Class to justify the premium.
+- Airlines can promote early bird discounts and educate passengers on fare advantages to improve forecasting, reduce last-minute fare volatility, and boost advance cash flow.
+
 ### Beyond the insights, this project was a major step forward in my growth as a data analyst.
 - I gained hands-on experience in cleaning and structuring messy, raw data, transforming it into something reliable and analysis-ready.
 - I discovered the real power of slicers, and how they can turn a static report into an interactive tool.
